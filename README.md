@@ -1,10 +1,10 @@
 ### Hi there, I'm Ankit Vishwakarma 👋
 
 - 📧 ankit99aug@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ankit99aug/)
-- 🧑‍💻 [LeetCode](https://leetcode.com/ankit99aug/)
-- 👨‍💻 [CodeChef](https://www.codechef.com/users/ankit99aug)
-- 💻 [Codeforces](https://codeforces.com/profile/ankit99aug)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ankitcoolzzzz/)
+- 🧑‍💻 [LeetCode](https://leetcode.com/ankitxvx/)
+- 👨‍💻 [CodeChef](https://www.codechef.com/users/ankit9268)
+- 💻 [Codeforces](https://codeforces.com/profile/ankitxvx)
 
 ---
 

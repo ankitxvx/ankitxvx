@@ -1,7 +1,7 @@
 ### Hi there, I'm Ankit Vishwakarma 👋
 
 - 📧 ankit99aug@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ankitcoolzzzz/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ankit-vishwakarma-349694212/)
 - 🧑‍💻 [LeetCode](https://leetcode.com/ankitxvx/)
 - 👨‍💻 [CodeChef](https://www.codechef.com/users/ankit9268)
 - 💻 [Codeforces](https://codeforces.com/profile/ankitxvx)

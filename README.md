@@ -27,15 +27,15 @@ I'm a recent B.Tech graduate in Information Technology from Netaji Subhas Univer
 
 ## 🛠️ Projects
 
-### [Fitness App](https://github.com/ankit99aug/fitness-app)
+### [Fitness App]([https://github.com/ankitxvx/fitness-app](https://github.com/ankitxvx/Gym-App))
 - **Technologies:** React.js, Node.js, TypeScript, TailwindCSS
 - **Description:** Created an eye-pleasing fitness app with text animation and implemented responsive user interfaces with Tailwind CSS for seamless user experience across devices.
 
-### [Hotel Booking App](https://github.com/ankit99aug/hotel-booking-app)
+### [Hotel Booking App](https://github.com/ankitxvx/Hotel_Booking_App)
 - **Technologies:** React.js, Node.js, MongoDB, Express.js
 - **Description:** Mirrors Airbnb’s core functionality, enabling users to view listings, make bookings, and manage profiles. Built REST API, handled user authentication, and integrated image uploads.
 
-### [Social Media App](https://github.com/ankit99aug/social-media-app)
+### [Social Media App](https://github.com/ankitxvx/social-media-app)
 - **Technologies:** Node.js, Express.js, MongoDB, JavaScript, Redux
 - **Description:** Implemented features allowing users to create, edit, and delete posts, enhancing user engagement. Utilized React-Redux for robust state management.
 
